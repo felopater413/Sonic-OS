@@ -95,3 +95,5 @@ Even though Sonic OS is in **concept stage**, contributors can:
 - Even if contributors change, the integration plan ensures the system remains **cohesive and revolutionary**.
 
 “Pick any module, experiment, and create history!”
+
+“Pick any module and start building — everything is modular and ready for real development.”
