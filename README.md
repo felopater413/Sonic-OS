@@ -93,3 +93,5 @@ Even though Sonic OS is in **concept stage**, contributors can:
 - Sonic OS will be a modular, fully integrated kernel with an original file system.  
 - Each contributor feels their work matters.  
 - Even if contributors change, the integration plan ensures the system remains **cohesive and revolutionary**.
+
+“Pick any module, experiment, and create history!”
