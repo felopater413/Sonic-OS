@@ -1,8 +1,8 @@
 [package]
-name = "sonic os"
+name = "sonic-os"
 version = "0.1.0"
 authors = ["felopater"]
-edition = "2026"
+edition = "2021"
 
 [dependencies]
 #لسة شوية
