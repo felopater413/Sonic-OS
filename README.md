@@ -78,14 +78,6 @@ The project is divided into independent modules:
 
 ---
 
-## How to Contribute 🤝
-
-Even though Sonic OS is in **concept stage**, contributors can:  
-- Experiment with Rust `no_std` bare-metal programming.  
-- Build independent modules or propose new features.  
-- Discuss improvements or design ideas.
-
-> Note: Contributors own the code they write. Sonic OS is your platform to create something **unique and groundbreaking**.
 
 ---
 
